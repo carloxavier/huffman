@@ -1,0 +1,296 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/carlolopez/Documents/coursera/patmat/target/scala-2.11/classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+17 items
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/common/package.scala -> /Users/carlolopez/Documents/coursera/patmat/target/scala-2.11/classes/common/package$$anonfun$subFile$1.class
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/common/package.scala -> /Users/carlolopez/Documents/coursera/patmat/target/scala-2.11/classes/common/package$.class
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/common/package.scala -> /Users/carlolopez/Documents/coursera/patmat/target/scala-2.11/classes/common/package.class
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> /Users/carlolopez/Documents/coursera/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$createCodeTree$1.class
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> /Users/carlolopez/Documents/coursera/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$createCodeTree$2.class
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> /Users/carlolopez/Documents/coursera/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$encode$1.class
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> /Users/carlolopez/Documents/coursera/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$makeOrderedLeafList$1.class
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> /Users/carlolopez/Documents/coursera/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$makeOrderedLeafList$2.class
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> /Users/carlolopez/Documents/coursera/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$quickEncode$1.class
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> /Users/carlolopez/Documents/coursera/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$timesAcc$1.class
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> /Users/carlolopez/Documents/coursera/patmat/target/scala-2.11/classes/patmat/Huffman$.class
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> /Users/carlolopez/Documents/coursera/patmat/target/scala-2.11/classes/patmat/Huffman$CodeTree.class
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> /Users/carlolopez/Documents/coursera/patmat/target/scala-2.11/classes/patmat/Huffman$Fork$.class
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> /Users/carlolopez/Documents/coursera/patmat/target/scala-2.11/classes/patmat/Huffman$Fork.class
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> /Users/carlolopez/Documents/coursera/patmat/target/scala-2.11/classes/patmat/Huffman$Leaf$.class
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> /Users/carlolopez/Documents/coursera/patmat/target/scala-2.11/classes/patmat/Huffman$Leaf.class
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> /Users/carlolopez/Documents/coursera/patmat/target/scala-2.11/classes/patmat/Huffman.class
+binary dependencies:
+4 items
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/common/package.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/jre/lib/rt.jar
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/common/package.scala -> /Users/carlolopez/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/jre/lib/rt.jar
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> /Users/carlolopez/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+17 items
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/common/package.scala -> common.package
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/common/package.scala -> common.package$
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/common/package.scala -> common.package$$anonfun$subFile$1
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$createCodeTree$1
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$createCodeTree$2
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$encode$1
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$makeOrderedLeafList$1
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$makeOrderedLeafList$2
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$quickEncode$1
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$timesAcc$1
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$CodeTree
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$Fork
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$Fork$
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$Leaf
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$Leaf$
+used names:
+152 items
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/common/package.scala -> ::
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/common/package.scala -> <init>
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/common/package.scala -> <repeated>
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/common/package.scala -> Any
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/common/package.scala -> AnyRef
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/common/package.scala -> File
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/common/package.scala -> FileInputStream
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/common/package.scala -> InputStream
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/common/package.scala -> List
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/common/package.scala -> None
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/common/package.scala -> Nothing
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/common/package.scala -> Option
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/common/package.scala -> Predef
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/common/package.scala -> String
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/common/package.scala -> _root_
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/common/package.scala -> child
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/common/package.scala -> children
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/common/package.scala -> classesDir
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/common/package.scala -> common
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/common/package.scala -> exists
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/common/package.scala -> file
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/common/package.scala -> foldLeft
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/common/package.scala -> getClass
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/common/package.scala -> getParentFile
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/common/package.scala -> getResource
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/common/package.scala -> io
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/common/package.scala -> java
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/common/package.scala -> package
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/common/package.scala -> projectDir
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/common/package.scala -> resourceFile
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/common/package.scala -> resourcePath
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/common/package.scala -> scala
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/common/package.scala -> subFile
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/common/package.scala -> toURI
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> $conforms
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> &&
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> +
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> ::
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> :::
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> <init>
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> ==
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> >=
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> AbstractFunction2
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> AbstractFunction4
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> AnyRef
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> Bit
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> Boolean
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> Char
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> CodeTable
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> CodeTree
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> Error
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> Fork
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> Function1
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> HashMap
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> Huffman
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> Int
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> Leaf
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> List
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> Map
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> Nil
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> None
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> Ordering
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> Predef
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> Product
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> ScalaRunTime
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> Serializable
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> Statics
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> String
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> Tuple2
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> _1
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> _2
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> _root_
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> _toString
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> a
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> acc
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> accCode
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> anyHash
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> apply
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> applyFunction
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> asInstanceOf
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> augmentString
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> b
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> bits
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> canBuildFrom
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> char
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> chars
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> code
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> codeBits
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> collection
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> combine
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> common
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> constructTable
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> convert
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> createCodeTree
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> decode
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> decodeSubtree
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> eq
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> finalizeHash
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> flatMap
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> flatten
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> frenchCode
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> freqs
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> getOrElse
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> head
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> immutable
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> insertTree
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> isInstanceOf
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> left
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> makeCodeTree
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> makeOrderedLeafList
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> map
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> math
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> mergeCodeTables
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> mix
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> ne
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> package
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> pair
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> patmat
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> predicate
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> right
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> runtime
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> scala
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> searchCharCode
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> secret
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> secret2
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> secret3
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> simpleCode
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> singleton
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> size
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> sortBy
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> str
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> subtree
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> table
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> tail
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> targetChar
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> text
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> times
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> timesAcc
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> toInt
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> toList
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> toString
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> tree
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> trees
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> typedProductIterator
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> until
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> updated
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> weight
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> x
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> x1
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> x2
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> xs
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> ||
+product stamps:
+17 items
+/Users/carlolopez/Documents/coursera/patmat/target/scala-2.11/classes/common/package$$anonfun$subFile$1.class -> lastModified(1474483750000)
+/Users/carlolopez/Documents/coursera/patmat/target/scala-2.11/classes/common/package$.class -> lastModified(1474483750000)
+/Users/carlolopez/Documents/coursera/patmat/target/scala-2.11/classes/common/package.class -> lastModified(1474483750000)
+/Users/carlolopez/Documents/coursera/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$createCodeTree$1.class -> lastModified(1474483848000)
+/Users/carlolopez/Documents/coursera/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$createCodeTree$2.class -> lastModified(1474483848000)
+/Users/carlolopez/Documents/coursera/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$encode$1.class -> lastModified(1474483848000)
+/Users/carlolopez/Documents/coursera/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$makeOrderedLeafList$1.class -> lastModified(1474483848000)
+/Users/carlolopez/Documents/coursera/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$makeOrderedLeafList$2.class -> lastModified(1474483848000)
+/Users/carlolopez/Documents/coursera/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$quickEncode$1.class -> lastModified(1474483848000)
+/Users/carlolopez/Documents/coursera/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$timesAcc$1.class -> lastModified(1474483848000)
+/Users/carlolopez/Documents/coursera/patmat/target/scala-2.11/classes/patmat/Huffman$.class -> lastModified(1474483848000)
+/Users/carlolopez/Documents/coursera/patmat/target/scala-2.11/classes/patmat/Huffman$CodeTree.class -> lastModified(1474483848000)
+/Users/carlolopez/Documents/coursera/patmat/target/scala-2.11/classes/patmat/Huffman$Fork$.class -> lastModified(1474483848000)
+/Users/carlolopez/Documents/coursera/patmat/target/scala-2.11/classes/patmat/Huffman$Fork.class -> lastModified(1474483848000)
+/Users/carlolopez/Documents/coursera/patmat/target/scala-2.11/classes/patmat/Huffman$Leaf$.class -> lastModified(1474483848000)
+/Users/carlolopez/Documents/coursera/patmat/target/scala-2.11/classes/patmat/Huffman$Leaf.class -> lastModified(1474483848000)
+/Users/carlolopez/Documents/coursera/patmat/target/scala-2.11/classes/patmat/Huffman.class -> lastModified(1474483847000)
+source stamps:
+2 items
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/common/package.scala -> hash(885b8f12a5b2a83dad658f76cc1fdd678a38d4a8)
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> hash(02f4663dcef0c772270b95cc88d0b30642214e15)
+binary stamps:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1444172124000)
+/Users/carlolopez/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> lastModified(1438617791000)
+class names:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/carlolopez/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> scala.Product
+internal apis:
+2 items
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/common/package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCH2I3RAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cMm+MXx0AAZub3RpZnlzcQB+AAyE/M00dAAHcGFja2FnZXNxAH4ADCYSurZ0AAR3YWl0c3EAfgAM8efqjHQADSRhc0luc3RhbmNlT2ZzcQB+AAzNivwPdAAGZXF1YWxzc3EAfgAM8WxUaXQADGFzSW5zdGFuY2VPZnNxAH4ADM7IhUp0AAxzeW5jaHJvbml6ZWRzcQB+AAxYw5T1dAANJGlzSW5zdGFuY2VPZnNxAH4ADKo9iEt0ABdyZXNvdXJjZUFzU3RyZWFtRnJvbVNyY3NxAH4ADIN8vFN0AAlub3RpZnlBbGxzcQB+AAwmJKnKdAAMaXNJbnN0YW5jZU9mc3EAfgAMacTab3QAAz8/P3NxAH4ADJp6YJF0AAI9PXNxAH4ADPKN8FN0AAVjbG9uZXNxAH4ADGdM1iN0AAdzdWJGaWxlc3EAfgAMJCvh6HQACHRvU3RyaW5nc3EAfgAMP7rEanQAAiE9c3EAfgAMCJe6qnQACGdldENsYXNzc3EAfgAMCCpDk3QAAm5lc3EAfgAMGnQJi3QAAmVxc3EAfgAMkxI1z3QAAiMjc3EAfgAMjXTkU3QACGZpbmFsaXplc3EAfgAMVNQ/iHQACGhhc2hDb2Rlc3EAfgAMe21E9HQAAyoqKnNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0AA5jb21tb24ucGFja2FnZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AXwFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AR0wACWluaGVyaXRlZHEAfgBHTAAHcGFyZW50c3EAfgBHeHEAfgBmc3EAfgBfAXVxAH4AQgAAAABwc3EAfgBfAXVxAH4AQgAAAABwc3EAfgBfAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AZXQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AZXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AfnQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Af3NxAH4AcnQAA0FueXNxAH4AdnNxAH4AeXVxAH4AfAAAAAJzcQB+AH50AAVzY2FsYXEAfgCFcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAZjb21tb25zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVdOFICWdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQARS9Vc2Vycy9jYXJsb2xvcGV6L0RvY3VtZW50cy9jb3Vyc2VyYS9wYXRtYXQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFIhbjxKlsqg9rWWPdswf3WeKONSo
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAcnxURAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAR3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cLiqNtt0AAdzZWNyZXQzc3EAfgAMEGpG5nQABm5vdGlmeXNxAH4ADOPjQIN0AAxtYWtlQ29kZVRyZWVzcQB+AAww19/AdAAGc2VjcmV0c3EAfgAM+eYOCXQAB3VuYXBwbHlzcQB+AAz0zD7AdAAKaW5zZXJ0VHJlZXNxAH4ADKaQCUR0AAZlbmNvZGVzcQB+AAxhsP6NdAAGd2VpZ2h0c3EAfgAMe0B32nQAB2N1cnJpZWRzcQB+AAx2nV1fdAAOc2VhcmNoQ2hhckNvZGVzcQB+AAzZ+AMmdAAEd2FpdHNxAH4ADD9MXYV0AA5jb3B5JGRlZmF1bHQkMnNxAH4ADJ8yRD50AA0kYXNJbnN0YW5jZU9mc3EAfgAMoU+ao3QADHByb2R1Y3RBcml0eXNxAH4ADK2KQsV0AAZlcXVhbHNzcQB+AAxTS/judAALcXVpY2tFbmNvZGVzcQB+AAyH+hGrdAAOY29uc3RydWN0VGFibGVzcQB+AAxnJV5jdAAMYXNJbnN0YW5jZU9mc3EAfgAMmcIySXQADHN5bmNocm9uaXplZHNxAH4ADDOC3Zh0AARsZWZ0c3EAfgAMLz8moXQADSRpc0luc3RhbmNlT2ZzcQB+AAzkbWOYdAAGdHVwbGVkc3EAfgAM7at2fXQAB3NlY3JldDJzcQB+AAzTnLQfdAAIdGltZXNBY2NzcQB+AAzljEqQdAAHSHVmZm1hbnNxAH4ADK8z4NV0AAhjYW5FcXVhbHNxAH4ADNy4Kpl0AA5jb3B5JGRlZmF1bHQkNHNxAH4ADOmjAId0AARjaGFyc3EAfgAMuBQG/HQABmRlY29kZXNxAH4ADGe14Jx0AARMZWFmc3EAfgAM1J/4kHQACGNvZGVCaXRzc3EAfgAMBIXUZHQADXByb2R1Y3RQcmVmaXhzcQB+AAwEDOSkdAAFdW50aWxzcQB+AAzWsoCxdAAKZnJlbmNoQ29kZXNxAH4ADPQX6yl0AAlub3RpZnlBbGxzcQB+AAyL3AEJdAALcmVhZFJlc29sdmVzcQB+AAzqxhkOdAAFY2hhcnNzcQB+AAwK6ir/dAAMaXNJbnN0YW5jZU9mc3EAfgAMNHGzI3QABjxpbml0PnNxAH4ADNvuXRl0AAVhcHBseXNxAH4ADP5M6690AA1kZWNvZGVkU2VjcmV0c3EAfgAMJOi/nHQAAj09c3EAfgAMsPy/b3QADWRlY29kZVN1YnRyZWVzcQB+AAwS9KK9dAAFY2xvbmVzcQB+AAwYFyThdAAPbWVyZ2VDb2RlVGFibGVzc3EAfgAMCCr1QHQABXRpbWVzc3EAfgAM82j6MnQAB2NvbWJpbmVzcQB+AAyaJm6edAAOY29weSRkZWZhdWx0JDNzcQB+AAy+Po9ydAAEY29weXNxAH4ADF/cRMh0AAxzdHJpbmcyQ2hhcnNzcQB+AAzUYODqdAAIdG9TdHJpbmdzcQB+AAyOhw/ndAAJc2luZ2xldG9uc3EAfgAM2oteLXQAAiE9c3EAfgAMoi1lqnQACGdldENsYXNzc3EAfgAMGgvawXQACUNvZGVUYWJsZXNxAH4ADCVeYSt0AA5jcmVhdGVDb2RlVHJlZXNxAH4ADEXyQTZ0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADH7ZjMB0AApzaW1wbGVDb2Rlc3EAfgAM9q1EPHQABEZvcmtzcQB+AAwlxqCSdAADQml0c3EAfgAMspD1b3QAAm5lc3EAfgAMQ8CvyHQAE21ha2VPcmRlcmVkTGVhZkxpc3RzcQB+AAwXcm2rdAAIQ29kZVRyZWVzcQB+AAzHdG2RdAACZXFzcQB+AAyHeQSodAAHY29udmVydHNxAH4ADF4e7tV0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAwZrS4GdAAFcmlnaHRzcQB+AAwhplqIdAACIyNzcQB+AAwzMJ0XdAAIZmluYWxpemVzcQB+AAxVJdcedAAOcHJvZHVjdEVsZW1lbnRzcQB+AAzRwE+9dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgCleHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAOcGF0bWF0Lkh1ZmZtYW51cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AL0Bc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AKVMAAlpbmhlcml0ZWRxAH4ApUwAB3BhcmVudHNxAH4ApXhxAH4AxHNxAH4AvQF1cQB+AKAAAAAAcHNxAH4AvQF1cQB+AKAAAAAAcHNxAH4AvQF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AMN0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AMNzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+ANx0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AN1zcQB+ANB0AANBbnlzcQB+ANRzcQB+ANd1cQB+ANoAAAACc3EAfgDcdAAFc2NhbGFxAH4A43BwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAGcGF0bWF0c3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFXThXpI3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEUvVXNlcnMvY2FybG9sb3Blei9Eb2N1bWVudHMvY291cnNlcmEvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQC9GY9zvDHcicLlcyI0LMGQiFOFQ==
+external apis:
+0 items
+source infos:
+2 items
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/common/package.scala -> 
+AAAAAAAAAAA=
+/Users/carlolopez/Documents/coursera/patmat/src/main/scala/patmat/Huffman.scala -> 
+AAAAAAAAAAA=
+compilations:
+14 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVzfplY91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9Vc2Vycy9jYXJsb2xvcGV6L0RvY3VtZW50cy9jb3Vyc2VyYS9wYXRtYXQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVzh7zHl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9Vc2Vycy9jYXJsb2xvcGV6L0RvY3VtZW50cy9jb3Vyc2VyYS9wYXRtYXQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVziF5sZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9Vc2Vycy9jYXJsb2xvcGV6L0RvY3VtZW50cy9jb3Vyc2VyYS9wYXRtYXQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVziLqUx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9Vc2Vycy9jYXJsb2xvcGV6L0RvY3VtZW50cy9jb3Vyc2VyYS9wYXRtYXQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVzjuWxJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9Vc2Vycy9jYXJsb2xvcGV6L0RvY3VtZW50cy9jb3Vyc2VyYS9wYXRtYXQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVzj1o+d1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9Vc2Vycy9jYXJsb2xvcGV6L0RvY3VtZW50cy9jb3Vyc2VyYS9wYXRtYXQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV0L2tCd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9Vc2Vycy9jYXJsb2xvcGV6L0RvY3VtZW50cy9jb3Vyc2VyYS9wYXRtYXQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV0L5iFp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9Vc2Vycy9jYXJsb2xvcGV6L0RvY3VtZW50cy9jb3Vyc2VyYS9wYXRtYXQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV0OaVch1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9Vc2Vycy9jYXJsb2xvcGV6L0RvY3VtZW50cy9jb3Vyc2VyYS9wYXRtYXQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV0Og2hB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9Vc2Vycy9jYXJsb2xvcGV6L0RvY3VtZW50cy9jb3Vyc2VyYS9wYXRtYXQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV0OoI5t1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9Vc2Vycy9jYXJsb2xvcGV6L0RvY3VtZW50cy9jb3Vyc2VyYS9wYXRtYXQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV0Opsu91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9Vc2Vycy9jYXJsb2xvcGV6L0RvY3VtZW50cy9jb3Vyc2VyYS9wYXRtYXQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV04UgJZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9Vc2Vycy9jYXJsb2xvcGV6L0RvY3VtZW50cy9jb3Vyc2VyYS9wYXRtYXQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV04V6SN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9Vc2Vycy9jYXJsb2xvcGV6L0RvY3VtZW50cy9jb3Vyc2VyYS9wYXRtYXQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
